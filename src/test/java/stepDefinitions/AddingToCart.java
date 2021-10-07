@@ -8,20 +8,19 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import static org.junit.Assert.assertEquals;
+import static stepDefinitions.TestSuiteSetup.chrome;
 
 public class AddingToCart {
-
-    WebDriver chrome;
 
 
     @Given("Customer is on DemoShop home page book")
     public void customer_is_on_demo_shop_home_page_book() {
-
-        WebDriverManager.chromedriver().setup();
-        chrome = new ChromeDriver();
         chrome.get("http://demowebshop.tricentis.com/");
+        System.out.println(chrome.getTitle());
 
     }
     @When("Customer searches for a book")
@@ -41,9 +40,10 @@ public class AddingToCart {
     }
     @Then("shopping cart should get updated from \\({int}) to \\({int})")
     public void shopping_cart_should_get_updated_from_to(Integer int1, Integer int2) throws InterruptedException {
-        Thread.sleep(1000);
-        String one = chrome.findElement(By.cssSelector(".cart-qty")).getText();
-        assertEquals("(1)", one);
+        WebDriverWait wait = new WebDriverWait(chrome, 10);
+        WebElement one = chrome.findElement(By.cssSelector(".cart-qty"));
+        wait.until(ExpectedConditions.textToBePresentInElement(one, "(1)"));
+        assertEquals("(1)", one.getText());
     }
 
 }
