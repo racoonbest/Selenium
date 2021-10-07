@@ -1,4 +1,4 @@
-Feature: Terms
+Feature: Terms And Conditions
   Scenario:
     Given Customer is on DemoShop home page
     When Customer clicks on books
