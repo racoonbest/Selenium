@@ -1,3 +1,4 @@
+@test
 Feature: Guest Customer purchase
 
   @smoke

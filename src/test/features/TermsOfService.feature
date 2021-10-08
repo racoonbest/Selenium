@@ -1,4 +1,5 @@
 Feature: Terms And Conditions
+  @smoke
   Scenario:
     Given Customer is on DemoShop home page
     When Customer clicks on books

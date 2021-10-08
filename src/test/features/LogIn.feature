@@ -1,5 +1,5 @@
 Feature: Log in
-
+  @login
   Scenario: Successful log in
     Given Customer is on DemoShop home page login
     When Customer clicks on log in

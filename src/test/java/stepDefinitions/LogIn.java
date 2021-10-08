@@ -11,15 +11,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.sql.DriverManager;
 
 import static org.junit.Assert.assertEquals;
+import static stepDefinitions.TestSuiteSetup.chrome;
 
 public class LogIn {
 
-    WebDriver chrome;
 
     @Given("Customer is on DemoShop home page login")
     public void customer_is_on_demo_shop_home_page_login() {
-        WebDriverManager.chromedriver().setup();
-        chrome = new ChromeDriver();
         chrome.get("http://demowebshop.tricentis.com/");
     }
     @When("Customer clicks on log in")
