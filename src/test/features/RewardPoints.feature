@@ -1,6 +1,6 @@
 Feature: RewordPoints
   Scenario:Customer able to see Reward Points
-    Given Customer is landed to demo shop home page login
+    Given Customer is on DemoShop home page
     When Customer clicks on log in
     Then Customer should land on sign in page
 
