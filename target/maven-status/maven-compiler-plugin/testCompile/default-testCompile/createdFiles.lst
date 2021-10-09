@@ -1,7 +1,0 @@
-stepDefinitions/TestSuiteSetup.class
-stepDefinitions/Wishlist.class
-stepDefinitions/LogIn.class
-stepDefinitions/AddingToCart.class
-stepDefinitions/Purchase.class
-stepDefinitions/TermsAndConditions.class
-TestRunner.class
