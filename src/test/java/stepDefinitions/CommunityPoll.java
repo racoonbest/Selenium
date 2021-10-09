@@ -9,6 +9,7 @@ import org.openqa.selenium.WebElement;
 import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertEquals;
+import static stepDefinitions.TestSuiteSetup.chrome;
 
 public class CommunityPoll {
     @When("Customer click to excellent")
