@@ -1,3 +1,4 @@
+@regression
 Feature: Electronics
   Scenario: Verify Electronics page
     Given Customer is on DemoShop home page

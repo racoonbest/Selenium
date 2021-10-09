@@ -1,3 +1,4 @@
+@regression
 Feature: Log in
   @login
   Scenario: Successful log in

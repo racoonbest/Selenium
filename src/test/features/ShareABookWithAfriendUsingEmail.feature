@@ -1,3 +1,4 @@
+@regression
 Feature: share with a friend
   Scenario: share a book with a friend
     Given Customer is on DemoShop home page

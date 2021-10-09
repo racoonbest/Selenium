@@ -3,6 +3,7 @@ package stepDefinitions;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
+import stepDefinitions.TestSuiteSetup;
 
 import java.util.concurrent.TimeUnit;
 

@@ -1,3 +1,4 @@
+@regression
 Feature: Community poll
   Scenario: Verify only register customer can vote
     Given Customer is on DemoShop home page

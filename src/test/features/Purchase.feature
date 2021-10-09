@@ -1,4 +1,4 @@
-@test
+@regression
 Feature: Guest Customer purchase
 
   @smoke

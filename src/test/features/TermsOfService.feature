@@ -1,3 +1,4 @@
+@regression
 Feature: Terms And Conditions
   @smoke
   Scenario:
