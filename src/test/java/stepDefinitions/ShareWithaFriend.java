@@ -1,4 +1,4 @@
-package stepDefinations;
+package stepDefinitions;
 
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -6,6 +6,7 @@ import org.openqa.selenium.By;
 
 import static org.junit.Assert.assertEquals;
 import static stepDefinations.TestSuiteSetUp.chrome;
+import static stepDefinitions.TestSuiteSetup.chrome;
 
 public class ShareWithaFriend {
     @When("Customer click to book")
