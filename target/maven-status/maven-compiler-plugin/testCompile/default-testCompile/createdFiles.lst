@@ -1,0 +1,16 @@
+stepDefinitions/Addresses.class
+stepDefinitions/TestSuiteSetup.class
+stepDefinitions/ShareWithaFriend.class
+stepDefinitions/Wishlist.class
+stepDefinitions/RewardPoints.class
+stepDefinitions/OrderStatus.class
+stepDefinitions/Electronics.class
+stepDefinitions/AddYourReview.class
+stepDefinitions/LogIn.class
+stepDefinitions/Purchase.class
+stepDefinitions/Jewelry.class
+stepDefinitions/CommunityPoll.class
+stepDefinitions/Newsletter.class
+stepDefinitions/AddingToCart.class
+stepDefinitions/TermsAndConditions.class
+TestRunner.class
