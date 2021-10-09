@@ -3,11 +3,13 @@ package stepDefinations;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
+import stepDefinitions.TestSuiteSetup;
 
 import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertEquals;
 import static stepDefinations.TestSuiteSetUp.chrome;
+import static stepDefinitions.TestSuiteSetup.chrome;
 
 public class Electronics {
     @When("Customer click to Electronics")
@@ -19,7 +21,7 @@ public class Electronics {
     @Then("Electronics page visible")
     public void electronics_page_visible() {
         chrome.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-       String title=chrome.findElement(By.cssSelector(".page.category-page> .page-title")).getText();
+       chrome.String title=chrome.findElement(By.cssSelector(".page.category-page> .page-title")).getText();
        assertEquals("Electronics",title);
     }
 }
