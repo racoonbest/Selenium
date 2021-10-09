@@ -1,3 +1,5 @@
+package stepDefinitions;
+
 import io.cucumber.java.en.*;
 import org.openqa.selenium.By;
 
