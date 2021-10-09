@@ -1,6 +1,6 @@
 Feature: Addresses
   Scenario: Verify Costumer name
-    Given Customer is landed to demo shop home page login
+    Given Customer is on DemoShop home page
     When Customer clicks on log in
     Then Customer should land on sign in page
 
