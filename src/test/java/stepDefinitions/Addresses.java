@@ -1,7 +1,11 @@
-package stepDefinations;
+package stepDefinitions;
 
 
-import static stepDefinations.TestSuiteSetUp.chrome;
+import io.cucumber.java.en.*;
+import org.openqa.selenium.By;
+
+import static org.junit.Assert.assertEquals;
+import static stepDefinitions.TestSuiteSetup.chrome;
 
 public class Addresses {
     @When("Customer click to addresses")
