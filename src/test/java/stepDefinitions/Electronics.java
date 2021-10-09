@@ -8,7 +8,6 @@ import stepDefinitions.TestSuiteSetup;
 import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertEquals;
-import static stepDefinations.TestSuiteSetUp.chrome;
 import static stepDefinitions.TestSuiteSetup.chrome;
 
 public class Electronics {
@@ -21,7 +20,7 @@ public class Electronics {
     @Then("Electronics page visible")
     public void electronics_page_visible() {
         chrome.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-       chrome.String title=chrome.findElement(By.cssSelector(".page.category-page> .page-title")).getText();
+       String title=chrome.findElement(By.cssSelector(".page.category-page> .page-title")).getText();
        assertEquals("Electronics",title);
     }
 }

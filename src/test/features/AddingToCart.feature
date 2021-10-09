@@ -1,3 +1,4 @@
+@regression
 Feature: Adding to cart
   Scenario: Add a health book to cart
 

@@ -1,3 +1,4 @@
+@regression
 Feature: AddYourReview
   @smoke
   Scenario: Verify Costumer able to add review

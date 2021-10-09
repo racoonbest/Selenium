@@ -1,3 +1,4 @@
+@regression
 Feature: Newsletter
 
   Scenario: Subscribe to Newsletter

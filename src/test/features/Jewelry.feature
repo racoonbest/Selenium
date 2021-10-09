@@ -1,3 +1,4 @@
+@regression
 Feature: Jewelry
   Scenario: Check title
     Given Customer is on DemoShop home page
