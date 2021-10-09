@@ -1,3 +1,4 @@
+@regression
 Feature: Addresses
   Scenario: Verify Costumer name
     Given Customer is on DemoShop home page
