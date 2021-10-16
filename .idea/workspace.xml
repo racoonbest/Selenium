@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e6d4f5-ba8a-4f64-a71a-0c87b0d09c43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="61e6d4f5-ba8a-4f64-a71a-0c87b0d09c43" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,9 +197,9 @@
     <list>
       <item itemvalue="Application.Liprt" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Cucumber java.Feature: TermsOfService" />
-      <item itemvalue="Cucumber java.Scenario: " />
-      <item itemvalue="Cucumber java.Scenario: Subscribe to Newsletter" />
+      <item itemvalue="Cucumber Java.Feature: TermsOfService" />
+      <item itemvalue="Cucumber Java.Scenario: " />
+      <item itemvalue="Cucumber Java.Scenario: Subscribe to Newsletter" />
       <item itemvalue="Maven.test tag" />
       <item itemvalue="Maven.generate report" />
     </list>
@@ -225,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -244,39 +241,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="813" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1634345064801">
-      <screen x="0" y="25" width="1920" height="992" />
-    </state>
-    <state x="813" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.25.1920.992@0.25.1920.992" timestamp="1634345064801" />
-    <state width="1878" height="266" key="GridCell.Tab.0.bottom" timestamp="1634389496169">
-      <screen x="0" y="25" width="2560" height="1352" />
-    </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.25.1920.992@0.25.1920.992" timestamp="1634345728926" />
-    <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.25.2560.1352@0.25.2560.1352" timestamp="1634389496169" />
-    <state width="1878" height="266" key="GridCell.Tab.0.center" timestamp="1634389496164">
-      <screen x="0" y="25" width="2560" height="1352" />
-    </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.center/0.25.1920.992@0.25.1920.992" timestamp="1634345728925" />
-    <state width="1878" height="266" key="GridCell.Tab.0.center/0.25.2560.1352@0.25.2560.1352" timestamp="1634389496164" />
-    <state width="1878" height="266" key="GridCell.Tab.0.left" timestamp="1634389496162">
-      <screen x="0" y="25" width="2560" height="1352" />
-    </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.left/0.25.1920.992@0.25.1920.992" timestamp="1634345728925" />
-    <state width="1878" height="266" key="GridCell.Tab.0.left/0.25.2560.1352@0.25.2560.1352" timestamp="1634389496162" />
-    <state width="1878" height="266" key="GridCell.Tab.0.right" timestamp="1634389496168">
-      <screen x="0" y="25" width="2560" height="1352" />
-    </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.right/0.25.1920.992@0.25.1920.992" timestamp="1634345728926" />
-    <state width="1878" height="266" key="GridCell.Tab.0.right/0.25.2560.1352@0.25.2560.1352" timestamp="1634389496168" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
