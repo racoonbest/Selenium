@@ -10,7 +10,7 @@ public class Car {
     }
 
     public void stoping(){
-        System.out.println("Car is stoping");
+        System.out.println("Car is stoped in parking lot");
     }
 }
 
