@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
 
     <list default="true" id="61e6d4f5-ba8a-4f64-a71a-0c87b0d09c43" name="Default Changelist" comment="">
 
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Main.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="61e6d4f5-ba8a-4f64-a71a-0c87b0d09c43" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
