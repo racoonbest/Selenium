@@ -6,6 +6,7 @@ public class Main {
 
         Car Toyota = new Car();
         Toyota.running();
+        Toyota.stoping();
 
 
     }
