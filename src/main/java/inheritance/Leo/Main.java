@@ -5,6 +5,7 @@ public class Main {
 
         Racoon mom = new Racoon();
         mom.sleep();
+        mom.eat();
 
 
     }
