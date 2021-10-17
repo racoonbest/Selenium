@@ -4,10 +4,12 @@ import inheritance.Desi.Cat;
 
 public class MainDoctor {
     public static void main(String[] args) {
-        Doctor physician = new Doctor();
-        physician.treatPatient();
+        Surgeon John = new Surgeon();
+        John.performSurgery();
 
-        Surgeon eor = new Surgeon();
-        eor.performSurgery();
+        FamilyDoctor Lisa = new FamilyDoctor();
+        Lisa.giveAdvice();
+
+        
     }
 }

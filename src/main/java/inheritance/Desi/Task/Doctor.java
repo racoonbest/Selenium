@@ -1,8 +1,11 @@
 package inheritance.Desi.Task;
 
-public class Doctor {
-    public void treatPatient() {
+public abstract class Doctor {
+    public abstract void treat();
 
-        System.out.println("I'm treating patients ");
+    public void goToWork(){
+        System.out.println("going to work");
+
+
     }
 }
