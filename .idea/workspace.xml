@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="" />
+    <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Surgeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Surgeon.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
