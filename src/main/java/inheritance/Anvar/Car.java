@@ -8,4 +8,12 @@ public class Car {
 
         System.out.println("Toyota is running");
     }
+
+    public void stopping(){
+        System.out.println("Car is stopped in parking lot");
+    }
+    public void broken(){
+        System.out.println("My car is broken");
+    }
 }
+
