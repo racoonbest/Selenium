@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Surgeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Surgeon.java" afterDir="false" />
-    </list>
+    <list default="true" id="ebcf51f4-62ed-4c5b-aecd-b80024688eb9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +61,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.MainDoctor">
     <configuration name="Liprt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepDefinitions.Liprt" />
       <module name="Selenium" />
@@ -116,19 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Subscribe to Newsletter" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/Newsletter.feature" />
-      <option name="GLUE" value="stepDefinitions" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+    <configuration name="MainDoctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Desi.Task.MainDoctor" />
       <module name="Selenium" />
-      <option name="NAME_FILTER" value="^Subscribe to Newsletter$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Subscribe to Newsletter$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Subscribe to Newsletter" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="PATTERN" value="inheritance.Desi.Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,14 +181,15 @@
     <list>
       <item itemvalue="Application.Liprt" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Cucumber Java.Scenario: Subscribe to Newsletter" />
-      <item itemvalue="Maven.test tag" />
-      <item itemvalue="Maven.generate report" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main2" />
+      <item itemvalue="Maven.test tag" />
+      <item itemvalue="Maven.generate report" />
+      <item itemvalue="Application.MainDoctor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainDoctor" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
