@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Tiger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Wolf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTask/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTask/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Main.class" afterDir="false" />
     </list>
