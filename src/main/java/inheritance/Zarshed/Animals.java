@@ -1,10 +1,12 @@
 package inheritance.Zarshed;
 
-public class Animals {
-    public void eat(){
+public abstract class Animals {
+    public void eat() {
         System.out.println("eating meat");
     }
-    public void sleep(){
+
+    public void sleep() {
         System.out.println("sleeping");
     }
-    }
+    public abstract void makeSound();
+}
