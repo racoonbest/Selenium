@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -42,6 +50,9 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="inheritance.Anvar.Main2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/target" />
@@ -59,7 +70,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Liprt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepDefinitions.Liprt" />
       <module name="Selenium" />
@@ -99,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.HomeTask.Main2" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.Anvar.HomeTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scenario: Subscribe to Newsletter" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/Newsletter.feature" />
@@ -108,26 +132,6 @@
       <option name="NAME_FILTER" value="^Subscribe to Newsletter$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Subscribe to Newsletter$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: Subscribe to Newsletter" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/TermsOfService.feature" />
-      <option name="GLUE" value="stepDefinitions" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Selenium" />
-      <option name="NAME_FILTER" value="^$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: " />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -193,14 +197,15 @@
     <list>
       <item itemvalue="Application.Liprt" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Cucumber Java.Scenario: " />
       <item itemvalue="Cucumber Java.Scenario: Subscribe to Newsletter" />
       <item itemvalue="Maven.test tag" />
       <item itemvalue="Maven.generate report" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Liprt" />
@@ -244,32 +249,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="813" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1634345064801">
-      <screen x="0" y="25" width="1920" height="992" />
-    </state>
-    <state x="813" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.25.1920.992@0.25.1920.992" timestamp="1634345064801" />
-    <state width="1878" height="266" key="GridCell.Tab.0.bottom" timestamp="1634389496169">
-      <screen x="0" y="25" width="2560" height="1352" />
-    </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.25.1920.992@0.25.1920.992" timestamp="1634345728926" />
-    <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.25.2560.1352@0.25.2560.1352" timestamp="1634389496169" />
-    <state width="1878" height="266" key="GridCell.Tab.0.center" timestamp="1634389496164">
-      <screen x="0" y="25" width="2560" height="1352" />
-    </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.center/0.25.1920.992@0.25.1920.992" timestamp="1634345728925" />
-    <state width="1878" height="266" key="GridCell.Tab.0.center/0.25.2560.1352@0.25.2560.1352" timestamp="1634389496164" />
-    <state width="1878" height="266" key="GridCell.Tab.0.left" timestamp="1634389496162">
-      <screen x="0" y="25" width="2560" height="1352" />
-    </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.left/0.25.1920.992@0.25.1920.992" timestamp="1634345728925" />
-    <state width="1878" height="266" key="GridCell.Tab.0.left/0.25.2560.1352@0.25.2560.1352" timestamp="1634389496162" />
-    <state width="1878" height="266" key="GridCell.Tab.0.right" timestamp="1634389496168">
-      <screen x="0" y="25" width="2560" height="1352" />
-    </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.right/0.25.1920.992@0.25.1920.992" timestamp="1634345728926" />
-    <state width="1878" height="266" key="GridCell.Tab.0.right/0.25.2560.1352@0.25.2560.1352" timestamp="1634389496168" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
