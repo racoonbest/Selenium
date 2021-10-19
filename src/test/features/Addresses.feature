@@ -5,9 +5,9 @@ Feature: Addresses
     When Customer clicks on log in
     Then Customer should land on sign in page
 
-    When Customer enters email
+    When Customer enters an email
     When Customer enters valid password
-    When Customer click to remember me
+    When Customer click on remember me
     When Customer click on log in
     Then Customer should see log out
 
