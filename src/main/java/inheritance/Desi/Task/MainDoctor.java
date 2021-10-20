@@ -7,9 +7,10 @@ public class MainDoctor {
         Surgeon John = new Surgeon();
         John.performSurgery();
 
+
         FamilyDoctor Lisa = new FamilyDoctor();
         Lisa.giveAdvice();
 
-        
+
     }
 }

@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ebcf51f4-62ed-4c5b-aecd-b80024688eb9" name="Changes" comment="" />
+=======
+    <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Patient.java" afterDir="false" />
+    </list>
+>>>>>>> bc836f02d8eaf047da05cd19746e6d123d65fb9d
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +21,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -38,12 +45,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="inheritance.Anvar.Main2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/target" />
@@ -61,7 +65,11 @@
       <command value="mvn clean" />
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.MainDoctor">
+=======
+  <component name="RunManager" selected="Application.Main (1)">
+>>>>>>> bc836f02d8eaf047da05cd19746e6d123d65fb9d
     <configuration name="Liprt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepDefinitions.Liprt" />
       <module name="Selenium" />
@@ -101,12 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.HomeTask.Main2" />
+    <configuration name="Scenario: Subscribe to Newsletter" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/Newsletter.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Selenium" />
+      <option name="NAME_FILTER" value="^Subscribe to Newsletter$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Subscribe to Newsletter$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Subscribe to Newsletter" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.Anvar.HomeTask.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,9 +129,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="MainDoctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.Desi.Task.MainDoctor" />
       <module name="Selenium" />
+=======
+    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/TermsOfService.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Selenium" />
+      <option name="NAME_FILTER" value="^$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: " />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+>>>>>>> bc836f02d8eaf047da05cd19746e6d123d65fb9d
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inheritance.Desi.Task.*" />
@@ -182,6 +210,7 @@
       <item itemvalue="Application.Liprt" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+<<<<<<< HEAD
       <item itemvalue="Application.Main2" />
       <item itemvalue="Maven.test tag" />
       <item itemvalue="Maven.generate report" />
@@ -191,6 +220,15 @@
       <list>
         <item itemvalue="Application.MainDoctor" />
         <item itemvalue="Application.Main2" />
+=======
+      <item itemvalue="Cucumber Java.Scenario: " />
+      <item itemvalue="Cucumber Java.Scenario: Subscribe to Newsletter" />
+      <item itemvalue="Maven.test tag" />
+      <item itemvalue="Maven.generate report" />
+    </list>
+    <recent_temporary>
+      <list>
+>>>>>>> bc836f02d8eaf047da05cd19746e6d123d65fb9d
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Liprt" />
