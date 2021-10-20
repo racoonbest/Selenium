@@ -140,7 +140,7 @@ public class Purchase {
     }
     @When("Customer enters email")
     public void customer_enters_email() {
-        WebElement Email = chrome.findElement(By.id("BillingNewAddress_Email"));
+        WebElement Email = chrome.findElement(By.cssSelector("#Email"));
         Email.sendKeys("anvark76@gmail.com");
         
     }
