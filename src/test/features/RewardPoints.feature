@@ -1,3 +1,4 @@
+@regression
 Feature: RewordPoints
   Scenario:Customer able to see Reward Points
     Given Customer is on DemoShop home page

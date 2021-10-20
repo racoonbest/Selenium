@@ -1,3 +1,4 @@
+@regression
 Feature: Wish List
   Scenario: Adding an item to Wishlist successfully
     Given Customer is on DemoShop home page wishlist
