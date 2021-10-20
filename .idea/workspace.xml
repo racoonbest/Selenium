@@ -4,7 +4,6 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-
     <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/BMW.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Car.java" afterDir="false" />
@@ -48,6 +47,7 @@
       <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Doctors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Doctors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/FamilyDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/FamilyDoctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Cars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" afterDir="false" />
@@ -57,11 +57,9 @@
       <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Purchase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TestSuiteSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TestSuiteSetup.class" afterDir="false" />
     </list>
-
-    <list default="true" id="ebcf51f4-62ed-4c5b-aecd-b80024688eb9" name="Changes" comment="" />
-
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,32 +116,13 @@
       <command value="mvn clean" />
     </option>
   </component>
-
-  <component name="RunManager" selected="Cucumber Java.Scenario: A book purchase">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.Main" />
-
-  <component name="RunManager" selected="Application.MainDoctor">
-    <configuration name="Liprt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepDefinitions.Liprt" />
-
+  <component name="RunManager" selected="Application.Main4">
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.HomeTaskFood.Main4" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.Anvar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.TaskDocktor.Main3" />
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.Anvar.TaskDocktor.*" />
+          <option name="PATTERN" value="inheritance.Anvar.HomeTaskFood.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,8 +150,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-
-    <configuration name="Scenario: Verify Costumer name" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Verify Costumer name (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/Addresses.feature" />
       <option name="GLUE" value="stepDefinitions" />
@@ -182,14 +160,9 @@
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Costumer name$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: Verify Costumer name" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.HomeTask.Main2" />
-      <module name="Selenium" />
-
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.Anvar.HomeTask.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,28 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-
+    <configuration name="Scenario: Verify Costumer name" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scenario: share a book with a friend" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/ShareABookWithAfriendUsingEmail.feature" />
-      <option name="GLUE" value="stepDefinitions" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Selenium" />
-      <option name="NAME_FILTER" value="^share a book with a friend$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^share a book with a friend$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: share a book with a friend" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-
-    <configuration name="MainDoctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Desi.Task.MainDoctor" />
-      <module name="Selenium" />
-
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.Desi.Task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -275,32 +232,18 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
-
-      <item itemvalue="Maven.test tag" />
-      <item itemvalue="Maven.generate report" />
-      <item itemvalue="Application.Main3" />
       <item itemvalue="Cucumber Java.Scenario: A book purchase" />
       <item itemvalue="Cucumber Java.Scenario: share a book with a friend" />
       <item itemvalue="Cucumber Java.Scenario: Verify Costumer name" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Cucumber Java.Scenario: A book purchase" />
-        <item itemvalue="Cucumber Java.Scenario: Verify Costumer name" />
-        <item itemvalue="Cucumber Java.Scenario: share a book with a friend" />
-        <item itemvalue="Application.Main3" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Maven.test tag" />
       <item itemvalue="Maven.generate report" />
-      <item itemvalue="Application.MainDoctor" />
+      <item itemvalue="Application.Main4" />
+      <item itemvalue="Cucumber Java.Scenario: Verify Costumer name (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainDoctor" />
-        <item itemvalue="Application.Main2" />
-
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Cucumber Java.Scenario: Verify Costumer name (1)" />
       </list>
     </recent_temporary>
   </component>
