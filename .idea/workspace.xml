@@ -5,11 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/KindOfAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/MB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Task/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Task/FamilyDoctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Task/MainDoctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Task/Surgeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Dentist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/FamilyDoctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Surgeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/BMW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/KindOfAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/MB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/FamilyDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/MainDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/Surgeon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Tiger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Toyota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Wolf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/FamilyDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Surgeon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Doctors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Doctors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/FamilyDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/FamilyDoctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Surgeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Surgeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Cars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/features/ShareABookWithAfriendUsingEmail.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/features/ShareABookWithAfriendUsingEmail.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/ShareWithaFriend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ShareWithaFriend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/TestSuiteSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/TestSuiteSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TestSuiteSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TestSuiteSetup.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +66,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -44,12 +90,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="inheritance.Anvar.Main2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/target" />
@@ -67,20 +110,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main3">
-    <configuration name="Liprt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepDefinitions.Liprt" />
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepDefinitions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Cucumber Java.Scenario: A book purchase">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.Main" />
       <module name="Selenium" />
@@ -94,38 +124,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Main" />
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.HomeTask.Main2" />
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.Anvar.HomeTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.TaskDocktor.Main3" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inheritance.Anvar.TaskDocktor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: A book purchase" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/Purchase.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Selenium" />
+      <option name="NAME_FILTER" value="^A book purchase$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^A book purchase$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: A book purchase" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify Costumer name" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/Addresses.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Selenium" />
+      <option name="NAME_FILTER" value="^Verify Costumer name$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Costumer name$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify Costumer name" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: share a book with a friend" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/ShareABookWithAfriendUsingEmail.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Selenium" />
+      <option name="NAME_FILTER" value="^share a book with a friend$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^share a book with a friend$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: share a book with a friend" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,21 +249,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Liprt" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Maven.test tag" />
       <item itemvalue="Maven.generate report" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main3" />
+      <item itemvalue="Cucumber Java.Scenario: A book purchase" />
+      <item itemvalue="Cucumber Java.Scenario: share a book with a friend" />
+      <item itemvalue="Cucumber Java.Scenario: Verify Costumer name" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: A book purchase" />
+        <item itemvalue="Cucumber Java.Scenario: Verify Costumer name" />
+        <item itemvalue="Cucumber Java.Scenario: share a book with a friend" />
         <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Liprt" />
       </list>
     </recent_temporary>
   </component>
