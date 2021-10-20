@@ -129,19 +129,19 @@ public class Purchase {
     @When("Customer enters first name")
     public void customer_enters_first_name() {
         WebElement Firstname = chrome.findElement(By.id("BillingNewAddress_FirstName"));
-        Firstname.sendKeys("Anvar");
+        Firstname.sendKeys("Bob");
         
     }
     @When("Customer enters last name")
     public void customer_enters_last_name() {
         WebElement Lastname = chrome.findElement(By.id("BillingNewAddress_LastName"));
-        Lastname.sendKeys("Karabekov");
+        Lastname.sendKeys("Backner");
         
     }
     @When("Customer enters email")
     public void customer_enters_email() {
-        WebElement Email = chrome.findElement(By.id("BillingNewAddress_Email"));
-        Email.sendKeys("anvark76@gmail.com");
+        WebElement Email = chrome.findElement(By.cssSelector("#Email"));
+        Email.sendKeys("123412341234@mail.com");
         
     }
     @When("Customer chooses a country")
@@ -161,7 +161,7 @@ public class Purchase {
     @When("Customer enters city")
     public void customer_enters_city() {
         WebElement City = chrome.findElement(By.id("BillingNewAddress_City"));
-        City.sendKeys("Pittsburgh");
+        City.sendKeys("OHIO");
         
     }
     @When("Customer enters zip")

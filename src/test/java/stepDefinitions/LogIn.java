@@ -46,7 +46,8 @@ public class LogIn {
         chrome.findElement(By.cssSelector(".button-1.login-button")).click();
     }
     @Then("Customer should see log out")
-    public void customer_should_see_log_out() {
+    public void customer_should_see_log_out() throws InterruptedException {
+        Thread.sleep(2000);
         String xyz = chrome.findElement(By.cssSelector(".ico-logout")).getText();
         assertEquals("Log out", xyz);
     }
