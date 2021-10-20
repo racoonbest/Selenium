@@ -140,8 +140,9 @@ public class Purchase {
     }
     @When("Customer enters email")
     public void customer_enters_email() {
+
         WebElement Email = chrome.findElement(By.cssSelector("#Email"));
-        Email.sendKeys("anvark76@gmail.com");
+        Email.sendKeys("123412341234@gmail.com");
         
     }
     @When("Customer chooses a country")
