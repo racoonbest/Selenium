@@ -1,9 +1,5 @@
 package inheritance.Anvar.TaskDocktor;
 
-public abstract class Doctors {
+public class Doctors {
 
-    public abstract void treat();
-
-    }
-
-
+}

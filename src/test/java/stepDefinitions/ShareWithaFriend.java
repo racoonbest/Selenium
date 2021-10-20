@@ -29,12 +29,6 @@ public class ShareWithaFriend {
         
     }
 
-    @When("Customer enters email for login")
-    public void customer_enters_email_for_login() {
-        chrome.findElement(By.cssSelector("#Email")).sendKeys("123412341234@gmail.com");
-    }
-
-
     @When("Customer click on send email")
     public void customer_click_on_send_email() {
         chrome.findElement(By.cssSelector(".button-1.send-email-a-friend-button")).click();
