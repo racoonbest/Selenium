@@ -7,12 +7,12 @@ Feature: share with a friend
 
     When Customer enters email
     When Customer enters valid password
-    When Customer click to remember me
+    When Customer click on remember me
     When Customer click on log in
     Then Customer should see log out
 
 
-    When Customer search for a book
+    When Customer searches for a book
     Then Customer is on search page
 
     When Customer click to book
