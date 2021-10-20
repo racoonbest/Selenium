@@ -1,6 +1,8 @@
 package inheritance.Zarshed.HomeWork2;
 
-public class Food {
+public abstract class Food {
+    public abstract void ingredients();
+    public abstract void calorie();
     public void eaten(){
         System.out.println("ready to eat");
     }

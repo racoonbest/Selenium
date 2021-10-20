@@ -26,5 +26,11 @@ public class Main {
       surprise.ingredients();
       surprise.calorie();
 
+      Pizza cheesepizza= new Pizza();
+      cheesepizza.eaten();
+      cheesepizza.getCooked();
+      cheesepizza.ingredients();
+      cheesepizza.calorie();
+
     }
 }
