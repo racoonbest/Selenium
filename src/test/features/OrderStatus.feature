@@ -1,5 +1,6 @@
 @regression
 Feature: Order status
+
   Scenario: Pending Order
     Given Customer is on DemoShop home page
     When Customer clicks on log in
@@ -7,7 +8,7 @@ Feature: Order status
 
     When Customer enters email
     When Customer enters valid password
-    When Customer click to remember me
+    When Customer click on remember me
     When Customer click on log in
     Then Customer should see log out
 
