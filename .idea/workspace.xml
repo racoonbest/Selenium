@@ -4,62 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/KindOfAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/MB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Task/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Task/FamilyDoctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Task/MainDoctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Task/Surgeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Wolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Dentist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/FamilyDoctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/ClassTask/Surgeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/BMW.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/KindOfAnimal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/MB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/Doctor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/FamilyDoctor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/MainDoctor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/Surgeon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Tiger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Toyota.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Wolf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Doctor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/FamilyDoctor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Surgeon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Doctors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Doctors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/FamilyDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/FamilyDoctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Cars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/features/ShareABookWithAfriendUsingEmail.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/features/ShareABookWithAfriendUsingEmail.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/ShareWithaFriend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ShareWithaFriend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/TestSuiteSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/TestSuiteSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Purchase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TestSuiteSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TestSuiteSetup.class" afterDir="false" />
-    </list>
+    <list default="true" id="58fa0de7-bc9e-4727-8746-e8d5cf1feafd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
