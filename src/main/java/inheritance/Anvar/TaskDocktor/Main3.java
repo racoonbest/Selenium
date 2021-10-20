@@ -1,13 +1,12 @@
 package inheritance.Anvar.TaskDocktor;
 
 public class Main3 {
-    public void main (String[]args){
-
+    public static void main (String[]args){
 
         Surgeon David = new Surgeon();
-        David.surgery();
+        David.treat();
 
         FamilyDoctor Lora = new FamilyDoctor();
-        Lora.familydoctor();
+        Lora.treat();
     }
 }

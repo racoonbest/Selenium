@@ -22,7 +22,7 @@ public class TestSuiteSetup{
 
     @After()
     public void tearDown() {
-        chrome.quit();
+        //chrome.quit();
     }
 
 }
