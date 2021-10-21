@@ -4,17 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a503daec-f614-4138-8524-eccfbe777f4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/BBQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/BBQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/Burger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/KindOfFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/KindOfFood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/Pasta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/Pasta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/Steak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Desi/FoodHomework/Steak.java" afterDir="false" />
-    </list>
+    <list default="true" id="3cb49024-4724-424b-89fe-4d62eadc618d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -22,5 +29,17 @@
   </component>
   <component name="TaskManager">
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
