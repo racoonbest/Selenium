@@ -128,25 +128,28 @@ public class Purchase {
     }
     @When("Customer enters first name")
     public void customer_enters_first_name() {
+        chrome.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
         WebElement Firstname = chrome.findElement(By.id("BillingNewAddress_FirstName"));
         Firstname.sendKeys("Anvar");
         
     }
     @When("Customer enters last name")
     public void customer_enters_last_name() {
+        chrome.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
         WebElement Lastname = chrome.findElement(By.id("BillingNewAddress_LastName"));
         Lastname.sendKeys("Karabekov");
         
     }
     @When("Customer enters email")
     public void customer_enters_email() {
-
-        WebElement Email = chrome.findElement(By.cssSelector("#Email"));
+        chrome.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+        WebElement Email = chrome.findElement(By.cssSelector("#BillingNewAddress_Email"));
         Email.sendKeys("123412341234@gmail.com");
         
     }
     @When("Customer chooses a country")
     public void customer_chooses_a_country() {
+        chrome.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
         WebElement Country1 = chrome.findElement(By.id("BillingNewAddress_CountryId"));
         Country1.sendKeys("United States");
         
