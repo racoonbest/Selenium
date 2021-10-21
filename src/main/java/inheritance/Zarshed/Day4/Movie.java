@@ -7,8 +7,12 @@ public abstract class Movie {
     public void stop(){
         System.out.println("stopping a movie");
     }
-    public abstract void like();
-    public abstract void unlike();
+    public void like(){
+        System.out.println("liked a movie");
+    }
+    public void unlike(){
+        System.out.println("Unliked a movie");
+    }
     public abstract void description();
 
 }
