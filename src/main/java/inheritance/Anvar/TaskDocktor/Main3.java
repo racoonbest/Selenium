@@ -7,7 +7,7 @@ public class Main3 {
         Surgeon David = new Surgeon();
         David.surgery();
 
-        FamilyDoctor Lora = new FamilyDoctor();
-        Lora.familydoctor();
+//      FamilyDoctor Lora = new FamilyDoctor();
+//      Lora.familydoctor();
     }
 }
