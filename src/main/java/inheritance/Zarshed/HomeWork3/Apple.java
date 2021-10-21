@@ -1,6 +1,28 @@
 package inheritance.Zarshed.HomeWork3;
 
 public class Apple extends Tree{
+
+    String name;
+
+    public int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
+    int height;
+
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
     @Override
     public void cutting() {
         System.out.println("late winter");
