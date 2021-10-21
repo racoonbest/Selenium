@@ -18,10 +18,12 @@ public class LogIn {
 
     @Given("Customer is on DemoShop home page login")
     public void customer_is_on_demo_shop_home_page_login() {
+
         chrome.get("http://demowebshop.tricentis.com/");
     }
     @When("Customer clicks on log in")
     public void customer_clicks_on_log_in() {
+
         chrome.findElement(By.cssSelector("a.ico-login")).click();
     }
     @Then("Customer should land on sign in page")

@@ -1,5 +1,6 @@
 @regression
 Feature: Order status
+
   Scenario: Pending Order
     Given Customer is on DemoShop home page
     When Customer clicks on log in

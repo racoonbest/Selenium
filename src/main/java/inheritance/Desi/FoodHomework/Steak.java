@@ -1,14 +1,16 @@
 package inheritance.Desi.FoodHomework;
 
-public abstract class Steak extends KindOfFood {
-    @Override
-    public abstract void getCooked();{
-    }
-        public abstract void getCalories();{
-
+public class Steak extends KindOfFood{
+        public void getCalories(){
         System.out.println("800 calories");
     }
-        public abstract void getIngredients();{
+
+    @Override
+    public void getCooked() {
+
+    }
+
+    public void getIngredients(){
             System.out.println("Beef,sause");
         }
     }
