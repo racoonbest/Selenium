@@ -3,16 +3,20 @@ package inheritance.Zarshed.HomeWork3;
 public class Apple extends Tree{
 
     String name;
+    private int height;
 
-    public int getHeight() {
+    public  int getHeight() {
         return height;
     }
 
     public void setHeight(int height) {
-        this.height = height;
+        if (height>=0){
+            this.height = height;
+        }
+
     }
 
-    int height;
+
 
 
     public String getName() {
