@@ -5,7 +5,7 @@ public abstract class Movies {
     public abstract void stop();
     public abstract void like();
     public abstract void unlike();
-    public abstract void description();
+    public abstract void describe();
 
 
 

@@ -13,7 +13,7 @@ public class SquadGame extends Movies{
     public void unlike (){
         System.out.println("unlike movie");
     }
-    public void description(){
+    public void describe(){
         System.out.println("description");
     }
 }
