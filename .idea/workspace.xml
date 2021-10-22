@@ -6,14 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3cb49024-4724-424b-89fe-4d62eadc618d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Day4/Movies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Day4/Movies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Day4/NightHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Day4/NightHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Day4/NyName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Day4/NyName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Day4/SquadGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/Day4/SquadGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskFood/Pasta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskFood/Pasta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Doctors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Doctors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Purchase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/LogIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/LogIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/AppleTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/AppleTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Purchase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,15 +81,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Cucumber Java.Scenario: A book purchase" />
       <item itemvalue="Application.Main5" />
       <item itemvalue="Application.Main6" />
+      <item itemvalue="Cucumber Java.Scenario: A book purchase" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main6" />
-        <item itemvalue="Application.Main5" />
         <item itemvalue="Cucumber Java.Scenario: A book purchase" />
+        <item itemvalue="Application.Main5" />
       </list>
     </recent_temporary>
   </component>

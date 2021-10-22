@@ -1,6 +1,21 @@
 package inheritance.Anvar.HomeTaskTree;
 
 public class AppleTree extends Tree{
+
+    String name ="AppleTree";
+    private int height;
+
+    public int getHeight(){
+        return height;
+    }
+    public void setHeight(int height){
+        if (height>=0){
+            this.height =height;
+        }
+    }
+
+
+
     public void getWatered(){
         System.out.println("Apple trees gets water from the ditch");
     }

@@ -21,5 +21,9 @@ public class Main6 {
         Tree3.describe();
         Tree3.bloom();
 
+        AppleTree bella = new AppleTree();
+        bella.setHeight(-100);
+
+
     }
 }
