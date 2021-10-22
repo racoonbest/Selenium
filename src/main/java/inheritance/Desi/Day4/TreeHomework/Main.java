@@ -1,7 +1,10 @@
 package inheritance.Desi.Day4.TreeHomework;
 
+<<<<<<< Updated upstream
 import inheritance.Anvar.HomeTaskTree.AppleTree;
 
+=======
+>>>>>>> Stashed changes
 public class Main {
     public static void main(String[] args) {
         Cherry pinkCherry = new Cherry();
@@ -19,10 +22,13 @@ public class Main {
         yellowBanana.getCutted();
         yellowBanana.description();
 
+<<<<<<< Updated upstream
         AppleTree fuji = new AppleTree();
        fuji.getWatered();
 
 
 
+=======
+>>>>>>> Stashed changes
     }
 }
