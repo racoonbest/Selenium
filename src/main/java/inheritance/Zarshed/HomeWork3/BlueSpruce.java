@@ -7,10 +7,7 @@ public class BlueSpruce extends Tree{
 
     }
 
-    @Override
-    public void watered() {
-        System.out.println("about 1 inch of water per week");
-    }
+
 
     @Override
     public void describe() {

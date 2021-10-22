@@ -3,7 +3,9 @@ package inheritance.Zarshed.HomeWork3;
 public abstract class Tree {
     public abstract void cutting();
 
-    public abstract void watered();
+    public void watered(){
+        System.out.println("put water once a week");
+    }
 
     public abstract void describe();
 

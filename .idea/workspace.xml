@@ -5,11 +5,152 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb49024-4724-424b-89fe-4d62eadc618d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/completableFeature/AccountInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/completableFeature/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/completableFeature/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/completableFeature/ServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/completableFeature/AccountInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/completableFeature/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/completableFeature/Network.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/completableFeature/ServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/AppleTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/AppleTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Main6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/TaskDocktor/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/BlueSpruce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/BlueSpruce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/WeepingWillow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Zarshed/HomeWork3/WeepingWillow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AseertTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AseertTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/classes/Checkbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/classes/Checkbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/classes/DropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/classes/DropDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/classes/GetText.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/classes/GetText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/classes/Radio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/classes/Radio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/classes/StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/classes/StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/classes/WebElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/classes/WebElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/classes/day4/Equals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/classes/day4/Equals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Amazon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Amazon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/AmazonClick.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/AmazonClick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Day2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Day2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Day2Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Day2Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/HomeWorkMrAnvar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/HomeWorkMrAnvar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/RaplaceString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/RaplaceString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/StringComparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/StringComparison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Day5/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/day3/Dropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/day3/Dropdown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/day3/Radio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/day3/Radio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/day3/isDisplayed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/day3/isDisplayed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/CSSSelectors.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/CSSSelectors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/FindElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/FindElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/GetText.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/GetText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/HomeWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/HomeWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coreJava/week1/day4/StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/Main5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/Main5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/Movies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/Movies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/NightHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/NightHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/NyName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/NyName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/SquadGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Day4/SquadGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Wolf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTask/Wolf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Burger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Burger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Food.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Main4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Pasta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Pasta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Stake.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskFood/Stake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/AppleTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/AppleTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/HardwoodTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/HardwoodTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/Main6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/Main6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/RedMapleTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/RedMapleTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/HomeTaskTree/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/TaskDocktor/Doctors.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/TaskDocktor/Doctors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/TaskDocktor/FamilyDoctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/TaskDocktor/FamilyDoctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/TaskDocktor/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/TaskDocktor/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Anvar/TaskDocktor/Surgeon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Anvar/TaskDocktor/Surgeon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/BMW.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/BMW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Day4/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Day4/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Day4/MyName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Day4/MyName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Day4/NightHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Day4/NightHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Day4/SquadGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Day4/SquadGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/BBQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/BBQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/Burger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/Burger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/KindOfFood.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/KindOfFood.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/Main7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/Main7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/Pasta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/Pasta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/Steak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/FoodHomework/Steak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/KindOfAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/KindOfAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/MB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/MB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/Doctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/FamilyDoctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/FamilyDoctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/MainDoctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/MainDoctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/Surgeon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Task/Surgeon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Toyota.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Toyota.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Desi/Wolf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Desi/Wolf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Leo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Leo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Leo/Racoon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Leo/Racoon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Dentist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Dentist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Doctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/FamilyDoctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/FamilyDoctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Surgeon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/ClassTask/Surgeon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/MyName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/MyName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/NightHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/NightHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/SquadGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/Day4/SquadGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Wolf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork/Wolf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/BBQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/BBQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Burger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Burger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Food.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Pasta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Pasta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Steak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork2/Steak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/BlueSpruce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/BlueSpruce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/WeepingWillow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Zarshed/HomeWork3/WeepingWillow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AddYourReview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AddYourReview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AddingToCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AddingToCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Addresses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Addresses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/CommunityPoll.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/CommunityPoll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Electronics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Electronics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Jewelry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Jewelry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/LogIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/LogIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Newsletter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Newsletter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/OrderStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/OrderStatus.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Purchase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/RewardPoints.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/RewardPoints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/ShareWithaFriend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/ShareWithaFriend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TermsAndConditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TermsAndConditions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TestSuiteSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/TestSuiteSetup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Wishlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Wishlist.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +167,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Tree.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Main6.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/HardwoodTree.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/AppleTree.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/RedMapleTree.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -33,7 +181,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main6">
+  <component name="RunManager" selected="Application.Main7">
     <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.Day4.Main5" />
       <module name="Selenium" />
@@ -53,6 +201,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inheritance.Anvar.HomeTaskTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.HomeTaskHouse.Main7" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.Anvar.HomeTaskHouse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,9 +245,11 @@
       <item itemvalue="Application.Main5" />
       <item itemvalue="Application.Main6" />
       <item itemvalue="Cucumber Java.Scenario: A book purchase" />
+      <item itemvalue="Application.Main7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main7" />
         <item itemvalue="Application.Main6" />
         <item itemvalue="Cucumber Java.Scenario: A book purchase" />
         <item itemvalue="Application.Main5" />

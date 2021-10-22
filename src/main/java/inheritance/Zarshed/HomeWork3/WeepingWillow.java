@@ -9,11 +9,6 @@ public class WeepingWillow extends Tree{
     }
 
     @Override
-    public void watered() {
-        System.out.println("weekly for the first year after planting");
-    }
-
-    @Override
     public void describe() {
         System.out.println("medium to large deciduous tree,It grows to 30-50'");
 

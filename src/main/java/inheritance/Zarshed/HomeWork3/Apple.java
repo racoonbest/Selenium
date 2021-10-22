@@ -1,15 +1,36 @@
 package inheritance.Zarshed.HomeWork3;
 
 public class Apple extends Tree{
+
+    String name;
+    private int height;
+
+    public  int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        if (height>=0){
+            this.height = height;
+        }
+
+    }
+
+
+
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
     @Override
     public void cutting() {
         System.out.println("late winter");
 
-    }
-
-    @Override
-    public void watered() {
-        System.out.println("About an inch (2.5 cm.) or so of rainfall every week to ten days");
     }
 
     @Override
