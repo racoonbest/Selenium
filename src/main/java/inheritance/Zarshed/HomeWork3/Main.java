@@ -29,5 +29,6 @@ public class Main {
         Apple fuji=new Apple();
         fuji.setHeight(10);
         System.out.println(fuji.getHeight());
+
     }
 }
