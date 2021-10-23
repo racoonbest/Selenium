@@ -1,20 +1,8 @@
 package inheritance.Zarshed.HomeWork5;
 
-public class Knife extends KitchenTool {
-
-    private double price;
-
-    public double getPrice() {
-        return price;
+public abstract class Knife {
+    public void cut(){
+        System.out.println("cutting");
     }
-
-    public void setPrice(double price) {
-        if(price>=0)
-        this.price = price;
-    }
-
-    @Override
-    public void knifeMaterial() {
-        System.out.println("stainless steel");
-    }
+    public abstract void kitchenToolMaterial();
 }
