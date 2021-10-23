@@ -31,7 +31,7 @@ public class LogIn {
         String title = chrome.findElement(By.cssSelector(".page-title")).getText();
         assertEquals("Welcome, Please Sign In!", title);
     }
-    @When("Customer enters an email")
+    @When("Customer enters email")
     public void customer_enters_an_email() {
         chrome.findElement(By.cssSelector("#Email")).sendKeys("123412341234@gmail.com");
     }
