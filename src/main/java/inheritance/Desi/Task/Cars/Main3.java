@@ -1,4 +1,8 @@
-package inheritance.Desi;
+package inheritance.Desi.Task.Cars;
+
+import inheritance.Desi.Task.Animals.Dog;
+import inheritance.Desi.Task.Animals.Tiger;
+import inheritance.Desi.Task.Animals.Wolf;
 
 public class Main3 {
     public static void main(String[] args) {

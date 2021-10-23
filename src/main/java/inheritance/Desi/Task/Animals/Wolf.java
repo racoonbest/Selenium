@@ -1,4 +1,6 @@
-package inheritance.Desi;
+package inheritance.Desi.Task.Animals;
+
+import inheritance.Desi.Task.Animals.KindOfAnimal;
 
 public class Wolf extends KindOfAnimal {
 

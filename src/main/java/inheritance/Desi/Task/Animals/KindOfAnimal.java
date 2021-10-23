@@ -1,4 +1,4 @@
-package inheritance.Desi;
+package inheritance.Desi.Task.Animals;
 
 public class KindOfAnimal {
 

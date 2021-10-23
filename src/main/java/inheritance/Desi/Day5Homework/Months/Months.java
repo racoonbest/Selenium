@@ -1,21 +1,11 @@
 package inheritance.Desi.Day5Homework.Months;
 
-public class Months {
-   private  int numberOfMonths;
+public class Months extends Year{
+   private  int numberOfMonths = 12;
 
     public int getNumberOfMonths() {
         return numberOfMonths;
     }
 
-    public boolean setNumberOfMonths(int numberOfMonths) {
-        if (numberOfMonths >= 0) {
-            this.numberOfMonths = numberOfMonths;
-            return true;
-
-        }else {
-            return false;
-        }
-
-    }
 
 }

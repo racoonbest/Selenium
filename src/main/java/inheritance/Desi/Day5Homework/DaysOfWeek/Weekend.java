@@ -1,6 +1,6 @@
 package inheritance.Desi.Day5Homework.DaysOfWeek;
 
-public class Weekend {
+public class Weekend extends DaysOfWeek{
     int WeekendDays;
 
     public int getWeekendDays() {

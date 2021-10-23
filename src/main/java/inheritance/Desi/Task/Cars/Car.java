@@ -1,4 +1,4 @@
-package inheritance.Desi;
+package inheritance.Desi.Task.Cars;
 
 public class Car {
     public void move(){

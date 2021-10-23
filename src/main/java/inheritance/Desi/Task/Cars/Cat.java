@@ -1,6 +1,8 @@
-package inheritance.Desi;
+package inheritance.Desi.Task.Cars;
 
-public class Cat extends KindOfAnimal{
+import inheritance.Desi.Task.Animals.KindOfAnimal;
+
+public class Cat extends KindOfAnimal {
 
         public void eat(){
             System.out.println("My cat is eating fish");

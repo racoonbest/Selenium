@@ -1,4 +1,4 @@
-package inheritance.Desi;
+package inheritance.Desi.Task.Cars;
 
 public class Main2 {
     public static void main(String[] args) {

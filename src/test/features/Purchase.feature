@@ -25,7 +25,7 @@ Feature: Guest Customer purchase
 
     When Customer enters first name
     And Customer enters last name
-    And Customer enters email
+    And Customer enters email for shipping
     And Customer chooses a country
     And Customer enters address1
     And Customer enters city

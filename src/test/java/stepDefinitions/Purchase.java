@@ -140,10 +140,10 @@ public class Purchase {
         Lastname.sendKeys("Karabekov");
         
     }
-    @When("Customer enters email")
-    public void customer_enters_email() {
+    @When("Customer enters email for shipping")
+    public void customer_enters_email_for_shipping() {
         chrome.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
-        WebElement Email = chrome.findElement(By.cssSelector("#Email"));
+        WebElement Email = chrome.findElement(By.cssSelector("#BillingNewAddress_Email"));
         Email.sendKeys("123412341234@gmail.com");
         
     }

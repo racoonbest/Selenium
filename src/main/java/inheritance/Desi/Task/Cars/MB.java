@@ -1,4 +1,6 @@
-package inheritance.Desi;
+package inheritance.Desi.Task.Cars;
+
+import inheritance.Desi.Task.Cars.Car;
 
 public class MB extends Car {
     public void play(){
