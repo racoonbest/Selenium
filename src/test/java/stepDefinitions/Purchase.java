@@ -140,8 +140,8 @@ public class Purchase {
         Lastname.sendKeys("Karabekov");
         
     }
-    @When("Customer enters email")
-    public void customer_enters_email() {
+    @When("Customer enters email for shipping")
+    public void customer_enters_email_for_shipping() {
         chrome.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
         WebElement Email = chrome.findElement(By.cssSelector("#BillingNewAddress_Email"));
         Email.sendKeys("123412341234@gmail.com");
@@ -150,7 +150,7 @@ public class Purchase {
     @When("Customer chooses a country")
     public void customer_chooses_a_country() {
         chrome.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
-        WebElement Country1 = chrome.findElement(By.id("BillingNewAddress_CountryId"));
+        WebElement Country1 = chrome.findElement(By.cssSelector("#BillingNewAddress_CountryId"));
         Country1.sendKeys("United States");
         
     }

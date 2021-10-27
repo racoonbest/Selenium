@@ -9,6 +9,11 @@ import static stepDefinitions.TestSuiteSetup.chrome;
 
 public class RewardPoints {
 
+    @When("Customer enters email log in")
+    public void customer_enters_email_log_in() {
+        chrome.findElement(By.cssSelector("#Email")).sendKeys("123412341234@gmail.com");
+    }
+
     @When("Customer click to My account")
     public void customer_click_to_my_account() {
         chrome.findElement(By.partialLinkText("My account")).click();

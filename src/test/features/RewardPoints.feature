@@ -5,7 +5,7 @@ Feature: RewordPoints
     When Customer clicks on log in
     Then Customer should land on sign in page
 
-    When Customer enters email
+    When Customer enters email log in
     When Customer enters valid password
     When Customer click on remember me
     When Customer click on log in
