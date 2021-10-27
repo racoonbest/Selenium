@@ -2,6 +2,8 @@ package polymorphism;
 
 public class Mom extends Parent{
 
+    String name;
+
     public int WorkZipCode;
 
     public int getWorkZipCode() {
@@ -16,7 +18,20 @@ public class Mom extends Parent{
         System.out.println("cooking");
     }
     public void work(){
-        System.out.println("I'm busy at "+getWorkZipCode());
+        super.work(getWorkZipCode());
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public String getName() {
+        return name;
+    }
+
+    @Override
+    public String toString() {
+        return name;
+    }
 }

@@ -1,20 +1,38 @@
 package polymorphism;
 
 public class Dad extends Parent{
-    public int WorkZipCode=11230;
+
+    String name;
+
+    public int WorkZipCode;
+
     public int getWorkZipCode() {
         return WorkZipCode;
     }
 
     public void setWorkZipCode(int workZipCode) {
-        WorkZipCode = workZipCode;
+        this.WorkZipCode = workZipCode;
     }
 
     public void repair(){
         System.out.println("repairing");
     }
     public void work(){
-        System.out.println("i'm busy at "+getWorkZipCode());
+        super.work(getWorkZipCode());
+    }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+
+    @Override
+    public String getName() {
+        return name;
+    }
+
+    @Override
+    public String toString() {
+        return name;
     }
 }
