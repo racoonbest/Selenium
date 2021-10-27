@@ -30,6 +30,5 @@ public class AppleTree extends Tree{
         System.out.println("Apple trees are not very strong and they are blooming often");
     }
 
-    public void setHeight(int i) {
-    }
+
 }
