@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb49024-4724-424b-89fe-4d62eadc618d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/AppleTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/AppleTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Dad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Daughter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Doughter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Kid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Kindergarten.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Life.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Mom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Son.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/WorkPlace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/MapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/MapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/OrderStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/OrderStatus.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +38,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Collect Order statuses and save it">
     <configuration name="Anvar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.Anvar" />
       <module name="Selenium" />
@@ -62,8 +52,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JukeBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.JukeBox" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.MapDemo" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaySong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.PlaySong" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Collect Order statuses and save it" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/Process.OrderStatus.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Selenium" />
+      <option name="NAME_FILTER" value="^Collect Order statuses and save it$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Collect Order statuses and save it$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Collect Order statuses and save it" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Anvar" />
+      <item itemvalue="Application.MapDemo" />
+      <item itemvalue="Application.JukeBox" />
+      <item itemvalue="Application.PlaySong" />
+      <item itemvalue="Cucumber Java.Scenario: Collect Order statuses and save it" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: Collect Order statuses and save it" />
+        <item itemvalue="Application.JukeBox" />
+        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.PlaySong" />
         <item itemvalue="Application.Anvar" />
       </list>
     </recent_temporary>
