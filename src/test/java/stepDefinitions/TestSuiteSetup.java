@@ -7,10 +7,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.io.BufferedWriter;
+import java.io.IOException;
+
 public class TestSuiteSetup{
 
     public static WebDriver chrome;
     public static WebDriverWait wait;
+    public static BufferedWriter writer;
 
     @Before()
     public void setupSuite() {
@@ -21,8 +25,12 @@ public class TestSuiteSetup{
     }
 
     @After()
-    public void tearDown() {
+    public void tearDown() throws IOException {
         chrome.quit();
+
+        if(writer != null){
+            writer.close();
+        }
     }
 
 }

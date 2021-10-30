@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cb49024-4724-424b-89fe-4d62eadc618d" name="Changes" comment="" />
+    <list default="true" id="3cb49024-4724-424b-89fe-4d62eadc618d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/MapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/MapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/OrderStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/OrderStatus.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,23 +23,28 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Tree.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/Main6.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/HardwoodTree.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/AppleTree.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/inheritance/Anvar/HomeTaskTree/RedMapleTree.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="Life" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Polymorphism.Life" />
+  <component name="RunManager" selected="Cucumber Java.Scenario: Collect Order statuses and save it">
+    <configuration name="Anvar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Anvar" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.Polymorphism.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Polymorphism.ListDemo" />
+    <configuration name="JukeBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.JukeBox" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.Polymorphism.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.Day4.Main5" />
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.MapDemo" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.Anvar.Day4.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Anvar.HomeTaskTree.Main6" />
+    <configuration name="PlaySong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.PlaySong" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.Anvar.HomeTaskTree.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Polymorphism.main" />
+    <configuration name="Scenario: Collect Order statuses and save it" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/Process.OrderStatus.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Selenium" />
+      <option name="NAME_FILTER" value="^Collect Order statuses and save it$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Collect Order statuses and save it$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Collect Order statuses and save it" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.Polymorphism.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,19 +112,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main5" />
-      <item itemvalue="Application.Main6" />
-      <item itemvalue="Application.Life" />
-      <item itemvalue="Application.ListDemo" />
-      <item itemvalue="Application.main" />
+      <item itemvalue="Application.Anvar" />
+      <item itemvalue="Application.MapDemo" />
+      <item itemvalue="Application.JukeBox" />
+      <item itemvalue="Application.PlaySong" />
+      <item itemvalue="Cucumber Java.Scenario: Collect Order statuses and save it" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Life" />
-        <item itemvalue="Application.ListDemo" />
-        <item itemvalue="Application.Main6" />
-        <item itemvalue="Application.Main5" />
+        <item itemvalue="Cucumber Java.Scenario: Collect Order statuses and save it" />
+        <item itemvalue="Application.JukeBox" />
+        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.PlaySong" />
+        <item itemvalue="Application.Anvar" />
       </list>
     </recent_temporary>
   </component>

@@ -44,4 +44,16 @@ public class OrderStatus {
 
     }
 
+    @When("Customer picks all the order numbers")
+    public void customer_picks_all_the_order_numbers() {
+        List<WebElement> verify = chrome.findElements(By.cssSelector(".center-2 .title"));
+        //verify.get(1).getText();
+        System.out.println(verify.get(1).getText());
+
+
+
+
+
+
+    }
 }
