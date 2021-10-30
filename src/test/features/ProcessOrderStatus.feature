@@ -1,6 +1,5 @@
-@regression
-Feature: Addresses
-  Scenario: Verify Costumer name
+Feature: Collect order status
+  Scenario: collect order status and save it
     Given Customer is on DemoShop home page
     When Customer clicks on log in
     Then Customer should land on sign in page
@@ -11,9 +10,9 @@ Feature: Addresses
     When Customer click on log in
     Then Customer should see log out
 
-    When Customer click to addresses
-    Then verify customer is on My account - Addresses
-    Then Verify customer name is John Smith
+    When Customer click to orders
+    Then verify customer is on My account-order page
+    Then Customer should see order number
 
+    When customer picks all the order numbers
 
-    Then Verify customer all addresses

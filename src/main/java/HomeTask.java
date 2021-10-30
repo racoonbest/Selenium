@@ -13,7 +13,7 @@ public class HomeTask {
         names.forEach(System.out::println);
 
 
-        Set <Integer> number = new LinkedHashSet();
+        Set <Integer> number = new TreeSet<>();
         number.add(3);
         number.add(2);
         number.add(1);

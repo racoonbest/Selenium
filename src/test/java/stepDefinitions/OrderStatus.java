@@ -3,8 +3,10 @@ package stepDefinitions;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import stepDefinitions.TestSuiteSetup;
 
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertEquals;
@@ -29,5 +31,17 @@ public class OrderStatus {
     public void customer_should_see_order_number() {
         String title=chrome.findElement(By.cssSelector(".info li:nth-child(1)")).getText();
         assertEquals("Order status: Pending",title);
+
     }
+    @When("customer picks all the order numbers")
+    public void customer_picks_all_the_order_numbers() {
+        List<WebElement> numberOfOrder=chrome.findElements(By.cssSelector(".center-2 .title"));
+        for(int i = 0; i < numberOfOrder.size(); i++) {
+
+            System.out.println(numberOfOrder.get(i).getText());
+        }
+
+
+    }
+
 }
